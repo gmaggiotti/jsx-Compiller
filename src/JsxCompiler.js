@@ -6,7 +6,7 @@ class JsxCompiler extends Component {
     constructor(){
         super();
         this.state = {
-            input: '/* add your jsx code here */',
+            input: '/* add your jsx code here sourcecode: https://github.com/gmaggiotti/jsx-Compiller  twitter: @gmaggiotti */',
             output: '',
             err: ''
         }
